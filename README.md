@@ -5,13 +5,13 @@ Ohjelmoinnin perusteiden harjoitus 5
 
 Täydennä tähän:
 
-- Nimi
-- Ryhmä
+- Tiia Elomaa
+- INTKM26A2
 
 ## Projektin kuvaus
 
-Kirjoita tähän projektin kuvaus.
+FoCar-projektissa käytettävien kirjastojen lisääminen Python-ohjelmaan.
 
 ## Käyttöohje
 
-Kirjoita tähän käyttöohjeet.
+Ohjelma on tarkoitettu käytettäväksi FoCar-projektissa Raspberry Pi Picolla.
